@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1f89db91-db0b-49bc-9401-1e99502f11cf" name="Changes" comment="&#10;first-pycharm-commit" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +40,7 @@
       <option name="presentableId" value="Default" />
       <updated>1725735114550</updated>
       <workItem from="1725735129801" duration="44000" />
-      <workItem from="1725736186549" duration="670000" />
+      <workItem from="1725736186549" duration="692000" />
     </task>
     <task id="LOCAL-00001" summary="Create static.yml&#10;&#10;Signed-off-by: Ehsunpy &lt;151562034+Ehsunpy@users.noreply.github.com&gt;">
       <created>1725736234243</created>
